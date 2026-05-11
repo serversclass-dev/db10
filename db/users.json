@@ -7,14 +7,15 @@
     "telegram_username": null,
     "telegram_first_name": "\"بيجو🤍\"",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_8.jpg",
-    "session_id": "619caebc-c845-4c0f-92be-3e1b310d88ae",
+    "session_id": "36031260-ce7e-4143-9136-6b16bc30e48c",
     "created_at": "2026-05-07T18:19:54.707462",
     "verified": true,
-    "last_login": "2026-05-08T00:56:51.899244",
+    "last_login": "2026-05-10T23:39:59.109619",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "math"
+      "math",
+      "biology"
     ],
     "server_num": 10
   }
