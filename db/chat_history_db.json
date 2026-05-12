@@ -314,5 +314,16 @@
     "last_file": "p4.txt",
     "subject": "biology",
     "saved_at": "2026-05-10T23:41:25.524761"
+  },
+  "BEGO__statistics": {
+    "username": "BEGO",
+    "subject_id": "statistics",
+    "messages": [],
+    "full_messages": [],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "statistics",
+    "saved_at": "2026-05-12T15:49:18.561435"
   }
 }
