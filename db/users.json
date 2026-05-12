@@ -18,5 +18,23 @@
       "biology"
     ],
     "server_num": 10
+  },
+  "Shahed": {
+    "username": "Shahed",
+    "password": "0922904740Sh",
+    "student_type": "علمي",
+    "telegram_user_id": "7378934230",
+    "telegram_username": "bushar_alabbar",
+    "telegram_first_name": ".",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_64.jpg",
+    "session_id": "3343c3ea-0db7-46a5-84fd-d1f525fd4b5c",
+    "created_at": "2026-05-11T22:28:51.024554",
+    "verified": true,
+    "last_login": "2026-05-11T22:30:51.043554",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 10
   }
 }
