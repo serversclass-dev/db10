@@ -37,5 +37,23 @@
       "islamic"
     ],
     "server_num": 10
+  },
+  "AL08": {
+    "username": "AL08",
+    "password": "ALIali08",
+    "student_type": "علمي",
+    "telegram_user_id": "5734656104",
+    "telegram_username": null,
+    "telegram_first_name": "Ali",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_112.jpg",
+    "session_id": "fb30f6a8-2e12-4d6f-b172-f6fc31247781",
+    "created_at": "2026-06-03T00:20:30.094108",
+    "verified": true,
+    "last_login": "2026-06-03T00:45:28.832952",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 10
   }
 }
