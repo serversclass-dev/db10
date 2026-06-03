@@ -325,5 +325,16 @@
     "last_file": null,
     "subject": "statistics",
     "saved_at": "2026-05-12T15:49:18.561435"
+  },
+  "AL08__islamic": {
+    "username": "AL08",
+    "subject_id": "islamic",
+    "messages": [],
+    "full_messages": [],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "islamic",
+    "saved_at": "2026-06-03T00:28:17.065924"
   }
 }
